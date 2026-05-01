@@ -32,9 +32,9 @@
   --color-steel: var(--steel);
   --color-rule: var(--rule);
   --color-rust: var(--rust);
-  --font-display: "Merriweather", Georgia, serif;
-  --font-serif: "Source Serif Pro", "Iowan Old Style", Georgia, serif;
-  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Merriweather", "Iowan Old Style", "Charter", Georgia, "Times New Roman", serif;
+  --font-serif: "Source Serif Pro", "Iowan Old Style", "Charter", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
 
 :root {
@@ -79,8 +79,11 @@
     @apply bg-background text-foreground;
     font-family: var(--font-serif);
     font-size: 18px;
-    line-height: 1.75;
+    line-height: 1.7;
     font-feature-settings: "kern", "liga", "onum";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
     background-image:
       radial-gradient(rgba(28, 27, 24, 0.04) 1px, transparent 1px),
       radial-gradient(rgba(28, 27, 24, 0.025) 1px, transparent 1px);
@@ -90,9 +93,13 @@
   h1, h2, h3, h4 {
     font-family: var(--font-display);
     font-weight: 900;
-    line-height: 1.08;
-    letter-spacing: -0.01em;
+    line-height: 1.1;
+    letter-spacing: -0.015em;
+    color: var(--ink);
   }
+  h1 { font-size: clamp(1.9rem, 4vw, 3rem); }
+  h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
+  h3 { font-size: clamp(1.2rem, 2vw, 1.5rem); }
   ::selection {
     background: oklch(0.85 0.18 75);
     color: var(--ink);

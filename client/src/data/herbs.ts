@@ -94,8 +94,7 @@ export const HERBS: Herb[] = [
   // — TCM cardinal —
   { asin: "B0013OXAU8", brand: "Plum Flower", product: "Long Gu Mu Li (Dragon Bone & Oyster Shell), 200 tabs", category: "TCM heavy-anchor", rationale: "The pure heavy-anchor formula — for the misophonic whose mind feels unanchored, racing, easily startled." },
   { asin: "B0013OXEAY", brand: "Plum Flower", product: "Bai Zi Yang Xin Wan, 200 tabs", category: "TCM heart-yin", rationale: "Bai Zi Yang Xin nourishes heart-yin. Used when palpitations + insomnia + dream-disturbed sleep stack on top of misophonia." },
-  // — Bonus essentials —
-  { asin: "B07GRJBSC1", brand: "Manuka Health", product: "Manuka Honey UMF 15+, 250g", category: "Functional food", rationale: "Tea sweetener that doesn't spike blood sugar. Stable mood = quieter triggers." },
+  // — Additional anchors —
   { asin: "B00012NGQA", brand: "Bach", product: "Rescue Remedy Drops, 20ml", category: "Flower essence", rationale: "Bach Rescue Remedy is psycho-acoustically grounding even if you discount the placebo argument. Cheap, portable, no contraindications." },
   { asin: "B003B3PR5C", brand: "Now Foods", product: "Adrenal Cortex 500mg, 60 caps", category: "Glandular", rationale: "Glandular adrenal cortex — useful for HPA-axis-fatigued misophonics. Test cortisol first." },
 ];

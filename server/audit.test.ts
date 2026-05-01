@@ -167,3 +167,38 @@ describe("herbs page", () => {
     }
   });
 });
+
+
+describe("fonts on Bunny CDN", () => {
+  const FONTS = [
+    "https://noise-wound.b-cdn.net/fonts/merriweather-900.woff2",
+    "https://noise-wound.b-cdn.net/fonts/merriweather-700.woff2",
+    "https://noise-wound.b-cdn.net/fonts/ssp-400.woff2",
+    "https://noise-wound.b-cdn.net/fonts/ssp-400i.woff2",
+    "https://noise-wound.b-cdn.net/fonts/ssp-700.woff2",
+    "https://noise-wound.b-cdn.net/fonts/inter-400.woff2",
+    "https://noise-wound.b-cdn.net/fonts/inter-500.woff2",
+    "https://noise-wound.b-cdn.net/fonts/inter-600.woff2",
+  ];
+
+  for (const url of FONTS) {
+    it(`serves ${url.split("/").pop()} as font/woff2`, async () => {
+      const head = await fetch(url, { method: "HEAD" });
+      expect(head.status).toBe(200);
+      const ct = head.headers.get("content-type") ?? "";
+      expect(ct).toMatch(/font\/woff2/);
+      const len = Number(head.headers.get("content-length") ?? "0");
+      expect(len).toBeGreaterThan(10_000);
+    });
+  }
+
+  it("index.html @font-face URLs all point at noise-wound.b-cdn.net", async () => {
+    const fs = await import("fs");
+    const html = fs.readFileSync("client/index.html", "utf8");
+    const fontUrls = [...html.matchAll(/url\("([^"]+\.woff2)"\)/g)].map(m => m[1]);
+    expect(fontUrls.length).toBeGreaterThanOrEqual(8);
+    for (const u of fontUrls) {
+      expect(u).toMatch(/^https:\/\/noise-wound\.b-cdn\.net\/fonts\//);
+    }
+  });
+});
