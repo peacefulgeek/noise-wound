@@ -1,28 +1,71 @@
+import { z } from "zod";
+import { TRPCError } from "@trpc/server";
 import { COOKIE_NAME } from "@shared/const";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
-import { publicProcedure, router } from "./_core/trpc";
+import { adminProcedure, publicProcedure, router } from "./_core/trpc";
+import {
+  countPublishedArticles,
+  getPublishedArticleBySlug,
+  getPublishedArticles,
+  getPublishedCountByDate,
+  getRecentCronRuns,
+  getValidAsinCount,
+} from "./db";
+
+export const articlesRouter = router({
+  list: publicProcedure
+    .input(
+      z.object({
+        limit: z.number().int().min(1).max(100).optional(),
+        offset: z.number().int().min(0).optional(),
+        category: z.string().optional(),
+      }).optional(),
+    )
+    .query(async ({ input }) => {
+      const articles = await getPublishedArticles({
+        limit: input?.limit,
+        offset: input?.offset,
+        category: input?.category,
+      });
+      return { articles };
+    }),
+
+  bySlug: publicProcedure
+    .input(z.object({ slug: z.string().min(1).max(200) }))
+    .query(async ({ input }) => {
+      const article = await getPublishedArticleBySlug(input.slug);
+      if (!article) {
+        throw new TRPCError({ code: "NOT_FOUND", message: "Article not found." });
+      }
+      return { article };
+    }),
+
+  stats: publicProcedure.query(async () => {
+    const [total, byDate, validAsins] = await Promise.all([
+      countPublishedArticles(),
+      getPublishedCountByDate(),
+      getValidAsinCount(),
+    ]);
+    return { total, byDate, validAsins };
+  }),
+
+  cronStatus: adminProcedure.query(async () => {
+    return { runs: await getRecentCronRuns(50) };
+  }),
+});
 
 export const appRouter = router({
-    // if you need to use socket.io, read and register route in server/_core/index.ts, all api should start with '/api/' so that the gateway can route correctly
   system: systemRouter,
   auth: router({
-    me: publicProcedure.query(opts => opts.ctx.user),
+    me: publicProcedure.query((opts) => opts.ctx.user),
     logout: publicProcedure.mutation(({ ctx }) => {
       const cookieOptions = getSessionCookieOptions(ctx.req);
       ctx.res.clearCookie(COOKIE_NAME, { ...cookieOptions, maxAge: -1 });
-      return {
-        success: true,
-      } as const;
+      return { success: true } as const;
     }),
   }),
-
-  // TODO: add feature routers here, e.g.
-  // todo: router({
-  //   list: protectedProcedure.query(({ ctx }) =>
-  //     db.getUserTodos(ctx.user.id)
-  //   ),
-  // }),
+  articles: articlesRouter,
 });
 
 export type AppRouter = typeof appRouter;

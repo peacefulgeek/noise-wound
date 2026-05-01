@@ -27,151 +27,348 @@
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
-  --color-chart-1: var(--chart-1);
-  --color-chart-2: var(--chart-2);
-  --color-chart-3: var(--chart-3);
-  --color-chart-4: var(--chart-4);
-  --color-chart-5: var(--chart-5);
-  --color-sidebar: var(--sidebar);
-  --color-sidebar-foreground: var(--sidebar-foreground);
-  --color-sidebar-primary: var(--sidebar-primary);
-  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
-  --color-sidebar-accent: var(--sidebar-accent);
-  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
-  --color-sidebar-border: var(--sidebar-border);
-  --color-sidebar-ring: var(--sidebar-ring);
+  --color-parchment: var(--parchment);
+  --color-ink: var(--ink);
+  --color-steel: var(--steel);
+  --color-rule: var(--rule);
+  --color-rust: var(--rust);
+  --font-display: "Merriweather", Georgia, serif;
+  --font-serif: "Source Serif Pro", "Iowan Old Style", Georgia, serif;
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
 :root {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-600);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
-  --radius: 0.65rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.235 0.015 65);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.235 0.015 65);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.235 0.015 65);
-  --secondary: oklch(0.98 0.001 286.375);
-  --secondary-foreground: oklch(0.4 0.015 65);
-  --muted: oklch(0.967 0.001 286.375);
-  --muted-foreground: oklch(0.552 0.016 285.938);
-  --accent: oklch(0.967 0.001 286.375);
-  --accent-foreground: oklch(0.141 0.005 285.823);
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(0.92 0.004 286.32);
-  --input: oklch(0.92 0.004 286.32);
-  --ring: oklch(0.623 0.214 259.815);
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.235 0.015 65);
-  --sidebar-accent: oklch(0.967 0.001 286.375);
-  --sidebar-accent-foreground: oklch(0.141 0.005 285.823);
-  --sidebar-border: oklch(0.92 0.004 286.32);
-  --sidebar-ring: oklch(0.623 0.214 259.815);
-}
+  /* Parchment/ink/steel — the entire site is light. No dark mode. */
+  --parchment: oklch(0.965 0.018 80);
+  --ink: oklch(0.18 0.012 60);
+  --steel: oklch(0.5 0.05 245);
+  --rule: oklch(0.78 0.025 75);
+  --rust: oklch(0.58 0.13 40);
 
-.dark {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-500);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --background: oklch(0.141 0.005 285.823);
-  --foreground: oklch(0.85 0.005 65);
-  --card: oklch(0.21 0.006 285.885);
-  --card-foreground: oklch(0.85 0.005 65);
-  --popover: oklch(0.21 0.006 285.885);
-  --popover-foreground: oklch(0.85 0.005 65);
-  --secondary: oklch(0.24 0.006 286.033);
-  --secondary-foreground: oklch(0.7 0.005 65);
-  --muted: oklch(0.274 0.006 286.033);
-  --muted-foreground: oklch(0.705 0.015 286.067);
-  --accent: oklch(0.274 0.006 286.033);
-  --accent-foreground:  oklch(0.92 0.005 65);
-  --destructive: oklch(0.704 0.191 22.216);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.488 0.243 264.376);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
-  --sidebar: oklch(0.21 0.006 285.885);
-  --sidebar-foreground: oklch(0.85 0.005 65);
-  --sidebar-accent: oklch(0.274 0.006 286.033);
-  --sidebar-accent-foreground:  oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.488 0.243 264.376);
+  --background: var(--parchment);
+  --foreground: var(--ink);
+  --card: oklch(0.985 0.01 80);
+  --card-foreground: var(--ink);
+  --popover: oklch(0.985 0.01 80);
+  --popover-foreground: var(--ink);
+  --primary: var(--steel);
+  --primary-foreground: oklch(0.99 0.005 80);
+  --secondary: oklch(0.93 0.025 80);
+  --secondary-foreground: var(--ink);
+  --muted: oklch(0.92 0.018 80);
+  --muted-foreground: oklch(0.36 0.022 60);
+  --accent: oklch(0.93 0.04 60);
+  --accent-foreground: var(--ink);
+  --destructive: oklch(0.55 0.22 27);
+  --destructive-foreground: oklch(0.99 0.005 80);
+  --border: var(--rule);
+  --input: oklch(0.92 0.02 80);
+  --ring: var(--steel);
+  --radius: 0.4rem;
 }
 
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
+  html {
+    background: var(--parchment);
+    color: var(--ink);
+  }
   body {
     @apply bg-background text-foreground;
+    font-family: var(--font-serif);
+    font-size: 18px;
+    line-height: 1.75;
+    font-feature-settings: "kern", "liga", "onum";
+    background-image:
+      radial-gradient(rgba(28, 27, 24, 0.04) 1px, transparent 1px),
+      radial-gradient(rgba(28, 27, 24, 0.025) 1px, transparent 1px);
+    background-size: 32px 32px, 11px 11px;
+    background-position: 0 0, 16px 16px;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: 900;
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+  }
+  ::selection {
+    background: oklch(0.85 0.18 75);
+    color: var(--ink);
   }
   button:not(:disabled),
-  [role="button"]:not([aria-disabled="true"]),
-  [type="button"]:not(:disabled),
-  [type="submit"]:not(:disabled),
-  [type="reset"]:not(:disabled),
   a[href],
-  select:not(:disabled),
-  input[type="checkbox"]:not(:disabled),
-  input[type="radio"]:not(:disabled) {
+  [role="button"]:not([aria-disabled="true"]) {
     @apply cursor-pointer;
   }
 }
 
 @layer components {
-  /**
-   * Custom container utility that centers content and adds responsive padding.
-   *
-   * This overrides Tailwind's default container behavior to:
-   * - Auto-center content (mx-auto)
-   * - Add responsive horizontal padding
-   * - Set max-width for large screens
-   *
-   * Usage: <div className="container">...</div>
-   *
-   * For custom widths, use max-w-* utilities directly:
-   * <div className="max-w-6xl mx-auto px-4">...</div>
-   */
   .container {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 1rem; /* 16px - mobile padding */
-    padding-right: 1rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
-
   .flex {
     min-height: 0;
     min-width: 0;
   }
-
   @media (min-width: 640px) {
     .container {
-      padding-left: 1.5rem; /* 24px - tablet padding */
+      padding-left: 1.5rem;
       padding-right: 1.5rem;
     }
   }
-
   @media (min-width: 1024px) {
     .container {
-      padding-left: 2rem; /* 32px - desktop padding */
+      padding-left: 2rem;
       padding-right: 2rem;
-      max-width: 1280px; /* Standard content width */
+      max-width: 1280px;
     }
+  }
+
+  /* Broadsheet rule */
+  .rule-thick {
+    border-bottom: 2px solid var(--ink);
+  }
+  .rule-thin {
+    border-bottom: 1px solid var(--rule);
+  }
+  .rule-double {
+    border-top: 1px solid var(--ink);
+    border-bottom: 3px double var(--ink);
+    padding-block: 0.4rem;
+  }
+
+  /* Masthead title */
+  .masthead {
+    font-family: var(--font-display);
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 0.95;
+  }
+
+  /* Drop-cap on the first paragraph of an article body. */
+  .article-body > p:first-of-type::first-letter,
+  .article-body section.body > p:first-of-type::first-letter {
+    font-family: var(--font-display);
+    font-weight: 900;
+    color: var(--rust);
+    float: left;
+    font-size: 5.4rem;
+    line-height: 0.85;
+    padding-right: 0.5rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.1rem;
+  }
+
+  /* Pull quotes injected every ~600 words. */
+  .article-body blockquote.pullquote,
+  .article-body .pullquote {
+    font-family: var(--font-display);
+    font-weight: 900;
+    font-size: clamp(1.4rem, 2.8vw, 2.2rem);
+    line-height: 1.15;
+    color: var(--ink);
+    border-left: 4px solid var(--rust);
+    margin: 2rem 0;
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    letter-spacing: -0.01em;
+  }
+  .article-body blockquote {
+    font-style: italic;
+    color: var(--muted-foreground);
+    border-left: 3px solid var(--rule);
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+  }
+  .article-body p {
+    margin-block: 1rem;
+  }
+  .article-body h2 {
+    font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.25rem;
+  }
+  .article-body h3 {
+    font-size: 1.4rem;
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+  .article-body a {
+    color: var(--steel);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .article-body a:hover {
+    color: var(--rust);
+  }
+  .article-body ul,
+  .article-body ol {
+    padding-left: 1.4rem;
+    margin-block: 1rem;
+  }
+  .article-body li {
+    margin-block: 0.35rem;
+  }
+  .article-body section[data-tldr] {
+    background: oklch(0.93 0.045 75 / 60%);
+    border: 1px solid var(--rule);
+    border-radius: 0.4rem;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+  .article-body section[data-tldr] strong,
+  .article-body section[data-tldr] h2,
+  .article-body section[data-tldr] h3 {
+    font-family: var(--font-display);
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    border: 0;
+    padding: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .article-body aside.author-byline {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    background: oklch(0.92 0.025 80);
+    border: 1px solid var(--rule);
+    border-radius: 0.4rem;
+    padding: 1rem 1.25rem;
+    margin: 2rem 0 0;
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    color: var(--muted-foreground);
+  }
+
+  /* Newspaper grid */
+  .broadsheet-grid {
+    display: grid;
+    gap: 1.25rem;
+  }
+  @media (min-width: 768px) {
+    .broadsheet-grid-3 {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    .broadsheet-grid-2 {
+      grid-template-columns: 2fr 1fr;
+    }
+  }
+
+  /* Section labels */
+  .section-label {
+    font-family: var(--font-sans);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--rust);
+  }
+
+  /* Hairline ornament */
+  .ornament {
+    text-align: center;
+    color: var(--rule);
+    letter-spacing: 0.5rem;
+    font-size: 0.75rem;
+    margin-block: 1.5rem;
+  }
+
+  /* Article card */
+  .article-card {
+    display: block;
+    color: inherit;
+  }
+  .article-card .kicker {
+    color: var(--rust);
+    font-family: var(--font-sans);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    font-size: 0.7rem;
+    font-weight: 600;
+  }
+  .article-card .headline {
+    font-family: var(--font-display);
+    font-weight: 900;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .article-card:hover .headline {
+    color: var(--rust);
+  }
+  .article-card .standfirst {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: var(--muted-foreground);
+    line-height: 1.5;
+    font-size: 1rem;
+  }
+
+  /* Background frame */
+  .frame-deckled {
+    box-shadow:
+      0 1px 0 var(--rule),
+      0 0 0 6px var(--parchment),
+      0 0 0 7px var(--ink);
+  }
+  .photo-aged {
+    filter: contrast(0.92) saturate(0.85) sepia(0.05);
+  }
+
+  /* TOC sticky */
+  .toc-list a {
+    display: block;
+    color: var(--muted-foreground);
+    text-decoration: none;
+    padding: 0.25rem 0;
+    border-left: 2px solid transparent;
+    padding-left: 0.5rem;
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    line-height: 1.4;
+  }
+  .toc-list a:hover,
+  .toc-list a.active {
+    border-color: var(--rust);
+    color: var(--ink);
+  }
+
+  /* Banner ribbon */
+  .ribbon {
+    display: inline-block;
+    background: var(--rust);
+    color: oklch(0.99 0.005 80);
+    padding: 0.18rem 0.65rem;
+    font-family: var(--font-sans);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-weight: 600;
+    border-radius: 0.15rem;
+  }
+}
+
+/* Reduced-motion accessibility — kill subtle animations. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
   }
 }
