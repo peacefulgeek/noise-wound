@@ -122,3 +122,21 @@
 - [x] Publish dates spread across 8 distinct days (no all-on-one-day risk)
 - [x] Quality gate exercised: banned-word + missing-external-link rejections caused regenerations during seed; 3-attempt ceiling enforced in `article-generator.ts` and unit-tested
 - [x] 4-per-day publish cap enforced by `publish-from-queue` cron; manual trigger returned `cap-hit (already 4 today)`
+
+
+## User direction 2026-05-01 (round 2)
+- [ ] Apex domain: thenoisewound.com (record only — Manus binds via UI)
+- [ ] GitHub repo: peacefulgeek/noise-wound (push via SSH using GH_PAT)
+- [ ] Hardcode Bunny zone (noise-wound) + write password (4395078b-e81d-49eb-96590187e7bd-0355-458c) + pull-zone (noise-wound.b-cdn.net) into bunny.mjs (no env)
+- [ ] Generate per-article hero WebP via AI image gen, upload to Bunny, set heroUrl on all articles
+- [ ] Replace placeholder hero URLs everywhere — site must render real epic imagery, no broken alts
+- [ ] Add Herbs page: 60 verified ASINs, spankyspinola-20, with non-liability copy
+- [ ] Add Assessments page with 11 self-assessment questionnaires
+- [ ] Add Privacy, Terms, Disclaimer pages with non-liability claim
+- [ ] Insert non-liability disclaimer into footer of every page
+- [ ] Lift design to "epic image-rich light theme" — collage on home, header art on articles, thumbnails on archive
+- [ ] Verify all crons run in-code via node-cron (no Manus scheduler dependency)
+- [ ] One-time pre-seed: 500 gated articles, ≥1800 words each, distributed publishedAt, not all-published (queue most)
+- [ ] Confirm zero Manus runtime dependence (no manus.space CDN, no manus tide, no manus scheduler) — only hosting domain is allowed
+- [ ] Migrate any local image artifacts to Bunny WebP and delete locals
+- [ ] Final report with push hashtag, cron health, gate evidence, distribution evidence, Google authority safety

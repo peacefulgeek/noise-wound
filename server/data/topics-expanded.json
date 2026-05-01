@@ -1,0 +1,5387 @@
+[
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain)",
+    "category": "neuroscience",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table",
+    "category": "triggers",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room",
+    "category": "relationships",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic",
+    "category": "work",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know",
+    "category": "school",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day",
+    "category": "strategies",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing",
+    "category": "tools",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers",
+    "category": "tools",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it",
+    "category": "emotion",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like)",
+    "category": "comorbidity",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads",
+    "category": "comorbidity",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter?",
+    "category": "comorbidity",
+    "tags": [
+      "anxiety",
+      "comorbidity"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself",
+    "category": "relationships",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in",
+    "category": "environment",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works",
+    "category": "work",
+    "tags": [
+      "accommodations",
+      "work",
+      "office"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you",
+    "category": "strategies",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama",
+    "category": "strategies",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat",
+    "category": "triggers",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible",
+    "category": "neuroscience",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one",
+    "category": "psychology",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking",
+    "category": "treatment",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation",
+    "category": "neuroscience",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m.",
+    "category": "sleep",
+    "tags": [
+      "sleep",
+      "partner",
+      "night"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable",
+    "category": "school",
+    "tags": [
+      "children",
+      "parenting",
+      "support"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable"
+  },
+  {
+    "topic": "Misophonia and parenting: when your own child's chewing is a trigger and you can't say it out loud",
+    "category": "relationships",
+    "tags": [
+      "parenting",
+      "shame",
+      "family"
+    ],
+    "slug": "misophonia-and-parenting-when-your-own-childs-chewing-is-a-trigger-and-you-cant-say-it-out-loud"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle",
+    "category": "emotion",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane",
+    "category": "relationships",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work",
+    "category": "environment",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments",
+    "category": "strategies",
+    "tags": [
+      "medical",
+      "transit",
+      "captive"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies",
+    "category": "neuroscience",
+    "tags": [
+      "research",
+      "studies",
+      "evidence"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing",
+    "category": "emotion",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound",
+    "category": "tools",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for partners",
+    "category": "relationships",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-partners"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-p"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for teenagers",
+    "category": "school",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-teens"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-t"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for university students",
+    "category": "school",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-students"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-u"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-clinicians"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-c"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for managers",
+    "category": "work",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-managers"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-m"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-women"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-w"
+  },
+  {
+    "topic": "Why misophonia gets dismissed as 'just being annoyed' (and what's actually happening in your brain) — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "salience-network",
+      "anterior-insula",
+      "neuroscience",
+      "for-skeptics"
+    ],
+    "slug": "why-misophonia-gets-dismissed-as-just-being-annoyed-and-whats-actually-happening-in-your-brain-for-s"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for partners",
+    "category": "relationships",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-partners"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-partn"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for parents",
+    "category": "school",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-parents"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-paren"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for teenagers",
+    "category": "school",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-teens"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-teena"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for university students",
+    "category": "school",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-students"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-unive"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-clinicians"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-clini"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for managers",
+    "category": "work",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-managers"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-manag"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-women"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-women"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-men"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-men-w"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-newly-diagnosed"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-the-n"
+  },
+  {
+    "topic": "The chewing trigger: what your nervous system is actually responding to at the dinner table — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "chewing",
+      "dinner-table",
+      "family",
+      "triggers",
+      "for-skeptics"
+    ],
+    "slug": "the-chewing-trigger-what-your-nervous-system-is-actually-responding-to-at-the-dinner-table-for-skept"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for partners",
+    "category": "relationships",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-partners"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-partners"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for parents",
+    "category": "school",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-parents"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-parents"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for teenagers",
+    "category": "school",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-teens"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-teenagers"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for university students",
+    "category": "school",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-students"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-university-students"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-clinicians"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-clinicians"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for managers",
+    "category": "work",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-managers"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-managers"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-women"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-women-in-midlife"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-men"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-men-who-dont-talk-abou"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-newly-diagnosed"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "Breathing sounds, sniffing, and the people you love: how to stay in the room — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "breathing",
+      "sniffing",
+      "relationships",
+      "decompression",
+      "for-skeptics"
+    ],
+    "slug": "breathing-sounds-sniffing-and-the-people-you-love-how-to-stay-in-the-room-for-skeptics"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for partners",
+    "category": "relationships",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-partners"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-partners"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for parents",
+    "category": "school",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-parents"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-parents"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for teenagers",
+    "category": "school",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-teens"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-teenagers"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for university students",
+    "category": "school",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-students"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-university-stud"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-clinicians"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-clinicians"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for managers",
+    "category": "work",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-managers"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-managers"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-women"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-women-in-midlif"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-men"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-men-who-dont-ta"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-newly-diagnosed"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-the-newly-diagn"
+  },
+  {
+    "topic": "Pen-clicking, keyboard tapping, and surviving the open-plan office as a misophonic — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "pen-clicking",
+      "keyboard",
+      "open-plan-office",
+      "work",
+      "for-skeptics"
+    ],
+    "slug": "pen-clicking-keyboard-tapping-and-surviving-the-open-plan-office-as-a-misophonic-for-skeptics"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for partners",
+    "category": "relationships",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-partners"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-partners"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for parents",
+    "category": "school",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-parents"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-parents"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for teenagers",
+    "category": "school",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-teens"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-teenagers"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for university students",
+    "category": "school",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-students"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-university-student"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-clinicians"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for managers",
+    "category": "work",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-managers"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-managers"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-women"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-women-in-midlife"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-men"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-men-who-dont-talk-"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-the-newly-diagnose"
+  },
+  {
+    "topic": "Misophonia at school: what teachers, parents, and students actually need to know — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "school",
+      "children",
+      "teens",
+      "accommodations",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-at-school-what-teachers-parents-and-students-actually-need-to-know-for-skeptics"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for partners",
+    "category": "relationships",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-partners"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-partners"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for parents",
+    "category": "school",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-parents"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-parents"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for teenagers",
+    "category": "school",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-teens"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-teenagers"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for university students",
+    "category": "school",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-students"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-university-st"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-clinicians"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-clinicians"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for managers",
+    "category": "work",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-managers"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-managers"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-women"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-women-in-midl"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-men"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-men-who-dont-"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-newly-diagnosed"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-the-newly-dia"
+  },
+  {
+    "topic": "The misophonic morning: building a routine that protects the first hour of your day — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "routine",
+      "mornings",
+      "regulation",
+      "for-skeptics"
+    ],
+    "slug": "the-misophonic-morning-building-a-routine-that-protects-the-first-hour-of-your-day-for-skeptics"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for partners",
+    "category": "relationships",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-partners"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-partners"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for parents",
+    "category": "school",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-parents"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-parents"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for teenagers",
+    "category": "school",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-teens"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-teenagers"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for university students",
+    "category": "school",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-students"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-university"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-clinicians"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-clinicians"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for managers",
+    "category": "work",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-managers"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-managers"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-women"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-women-in-m"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-men"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-men-who-do"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-newly-diagnosed"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-the-newly-"
+  },
+  {
+    "topic": "Earplugs, earmuffs, or noise-cancelling headphones? A misophonia-first guide to choosing — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "earplugs",
+      "earmuffs",
+      "noise-cancelling",
+      "tools",
+      "for-skeptics"
+    ],
+    "slug": "earplugs-earmuffs-or-noise-cancelling-headphones-a-misophonia-first-guide-to-choosing-for-skeptics"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for partners",
+    "category": "relationships",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-partners"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-partners"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for parents",
+    "category": "school",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-parents"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-parents"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for teenagers",
+    "category": "school",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-teens"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-teenagers"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for university students",
+    "category": "school",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-students"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-university-students"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-clinicians"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-clinicians"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for managers",
+    "category": "work",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-managers"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-managers"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-women"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-women-in-midlife"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-men"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-men-who-dont-talk-abou"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-newly-diagnosed"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "White noise vs brown noise vs nature sounds: which actually masks triggers — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "white-noise",
+      "brown-noise",
+      "masking",
+      "tools",
+      "for-skeptics"
+    ],
+    "slug": "white-noise-vs-brown-noise-vs-nature-sounds-which-actually-masks-triggers-for-skeptics"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for partners",
+    "category": "relationships",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-partners"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-partners"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for parents",
+    "category": "school",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-parents"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-parents"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for teenagers",
+    "category": "school",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-teens"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-teenagers"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for university students",
+    "category": "school",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-students"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-university-stud"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-clinicians"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for managers",
+    "category": "work",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-managers"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-managers"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-women"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-women-in-midlif"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-men"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-men-who-dont-ta"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-the-newly-diagn"
+  },
+  {
+    "topic": "Misophonia and rage: the half-second between trigger and fury, and how to widen it — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "rage",
+      "anger",
+      "regulation",
+      "nervous-system",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-and-rage-the-half-second-between-trigger-and-fury-and-how-to-widen-it-for-skeptics"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for partners",
+    "category": "relationships",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-partners"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-part"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for parents",
+    "category": "school",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-parents"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-pare"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for teenagers",
+    "category": "school",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-teens"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-teen"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for university students",
+    "category": "school",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-students"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-univ"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-clinicians"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-clin"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for managers",
+    "category": "work",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-managers"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-mana"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-women"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-wome"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-men"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-men-"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-newly-diagnosed"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-the-"
+  },
+  {
+    "topic": "Why misophonia and ADHD often arrive together (and what that combination actually feels like) — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "adhd",
+      "comorbidity",
+      "neurodivergence",
+      "for-skeptics"
+    ],
+    "slug": "why-misophonia-and-adhd-often-arrive-together-and-what-that-combination-actually-feels-like-for-skep"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for partners",
+    "category": "relationships",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-partners"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-partners"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for parents",
+    "category": "school",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-parents"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-parents"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for teenagers",
+    "category": "school",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-teens"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-teenagers"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for university students",
+    "category": "school",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-students"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-university-students"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-clinicians"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for managers",
+    "category": "work",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-managers"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-managers"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-women"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-women-in-midlife"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-men"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-men-who-dont-talk-about-it"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "Misophonia and autism: same response, different roads — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "autism",
+      "comorbidity",
+      "neurodivergence",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-and-autism-same-response-different-roads-for-skeptics"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for partners",
+    "category": "relationships",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-partners"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-partners"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for parents",
+    "category": "school",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-parents"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-parents"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for teenagers",
+    "category": "school",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-teens"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-teenagers"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for university students",
+    "category": "school",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-students"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-university-students"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-clinicians"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for managers",
+    "category": "work",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-managers"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-managers"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-women"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-women-in-midlife"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-men"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-men-who-dont-talk-about-it"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "Misophonia and anxiety: which is driving which, and does it matter? — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "anxiety",
+      "comorbidity",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-and-anxiety-which-is-driving-which-and-does-it-matter-for-skeptics"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for partners",
+    "category": "relationships",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-partners"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-partners"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for parents",
+    "category": "school",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-parents"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-parents"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for teenagers",
+    "category": "school",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-teens"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-teenagers"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for university students",
+    "category": "school",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-students"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-university-students"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-clinicians"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-clinicians"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for managers",
+    "category": "work",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-managers"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-managers"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-women"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-women-in-midlife"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-men"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-men-who-dont-talk-about-"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-newly-diagnosed"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "How to tell your partner you have misophonia without shrinking yourself — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "partner",
+      "relationships",
+      "communication",
+      "for-skeptics"
+    ],
+    "slug": "how-to-tell-your-partner-you-have-misophonia-without-shrinking-yourself-for-skeptics"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for partners",
+    "category": "relationships",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-partners"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-partners"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for parents",
+    "category": "school",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-parents"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-parents"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for teenagers",
+    "category": "school",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-teens"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-teenagers"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for university students",
+    "category": "school",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-students"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-university-students"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-clinicians"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-clinicians"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for managers",
+    "category": "work",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-managers"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-managers"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-women"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-women-in-midlife"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-men"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-men-who-dont-talk-abou"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-newly-diagnosed"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "The misophonia-friendly home: small changes that ease the room you live in — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "home",
+      "soundproofing",
+      "acoustic-treatment",
+      "for-skeptics"
+    ],
+    "slug": "the-misophonia-friendly-home-small-changes-that-ease-the-room-you-live-in-for-skeptics"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for partners",
+    "category": "relationships",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-partners"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-partners"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for parents",
+    "category": "school",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-parents"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-parents"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for teenagers",
+    "category": "school",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-teens"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-teenagers"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for university students",
+    "category": "school",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-students"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-university-stud"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-clinicians"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-clinicians"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for managers",
+    "category": "work",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-managers"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-managers"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-women"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-women-in-midlif"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-men"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-men-who-dont-ta"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-newly-diagnosed"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-the-newly-diagn"
+  },
+  {
+    "topic": "Office accommodations for misophonia: what to ask for, what's reasonable, what works — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "accommodations",
+      "work",
+      "office",
+      "for-skeptics"
+    ],
+    "slug": "office-accommodations-for-misophonia-what-to-ask-for-whats-reasonable-what-works-for-skeptics"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for partners",
+    "category": "relationships",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-partners"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-partners"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for parents",
+    "category": "school",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-parents"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-parents"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for teenagers",
+    "category": "school",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-teens"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-teenagers"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for university students",
+    "category": "school",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-students"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-university-"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-clinicians"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-clinicians"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for managers",
+    "category": "work",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-managers"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-managers"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-women"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-women-in-mi"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-men"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-men-who-don"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-newly-diagnosed"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-the-newly-d"
+  },
+  {
+    "topic": "Travel with misophonia: airplanes, hotels, and the long taxi ride that almost broke you — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "travel",
+      "airplane",
+      "hotel",
+      "for-skeptics"
+    ],
+    "slug": "travel-with-misophonia-airplanes-hotels-and-the-long-taxi-ride-that-almost-broke-you-for-skeptics"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for partners",
+    "category": "relationships",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-partners"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-partners"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for parents",
+    "category": "school",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-parents"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-parents"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for teenagers",
+    "category": "school",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-teens"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-teenagers"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for university students",
+    "category": "school",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-students"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-university-stu"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-clinicians"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for managers",
+    "category": "work",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-managers"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-managers"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-women"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-women-in-midli"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-men"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-men-who-dont-t"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-the-newly-diag"
+  },
+  {
+    "topic": "Misophonia at restaurants: ordering quiet, choosing seats, and exiting without drama — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "restaurants",
+      "dining",
+      "social",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-at-restaurants-ordering-quiet-choosing-seats-and-exiting-without-drama-for-skeptics"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for partners",
+    "category": "relationships",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-partners"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-partn"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for parents",
+    "category": "school",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-parents"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-paren"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for teenagers",
+    "category": "school",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-teens"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-teena"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for university students",
+    "category": "school",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-students"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-unive"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-clinicians"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-clini"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for managers",
+    "category": "work",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-managers"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-manag"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-women"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-women"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-men"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-men-w"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-newly-diagnosed"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-the-n"
+  },
+  {
+    "topic": "When the trigger is your own body: misophonia about your own breathing, swallowing, heartbeat — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "self-trigger",
+      "body",
+      "interoception",
+      "for-skeptics"
+    ],
+    "slug": "when-the-trigger-is-your-own-body-misophonia-about-your-own-breathing-swallowing-heartbeat-for-skept"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for partners",
+    "category": "relationships",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-partners"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-partners"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for parents",
+    "category": "school",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-parents"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-parents"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for teenagers",
+    "category": "school",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-teens"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-teenagers"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for university students",
+    "category": "school",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-students"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-university-stud"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-clinicians"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-clinicians"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for managers",
+    "category": "work",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-managers"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-managers"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-women"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-women-in-midlif"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-men"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-men-who-dont-ta"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-the-newly-diagn"
+  },
+  {
+    "topic": "Misokinesia: the visual cousin of misophonia, and why it makes meetings impossible — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "misokinesia",
+      "visual",
+      "meetings",
+      "for-skeptics"
+    ],
+    "slug": "misokinesia-the-visual-cousin-of-misophonia-and-why-it-makes-meetings-impossible-for-skeptics"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for partners",
+    "category": "relationships",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-partners"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-partners"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for parents",
+    "category": "school",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-parents"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-parents"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for teenagers",
+    "category": "school",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-teens"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-teenagers"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for university students",
+    "category": "school",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-students"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-university-st"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-clinicians"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-clinicians"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for managers",
+    "category": "work",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-managers"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-managers"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-women"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-women-in-midl"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-men"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-men-who-dont-"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-newly-diagnosed"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-the-newly-dia"
+  },
+  {
+    "topic": "Trauma and misophonia: untangling the conditioned trigger from the neurological one — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "trauma",
+      "psychology",
+      "ifs",
+      "somatic",
+      "for-skeptics"
+    ],
+    "slug": "trauma-and-misophonia-untangling-the-conditioned-trigger-from-the-neurological-one-for-skeptics"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for partners",
+    "category": "relationships",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-partners"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-partners"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for parents",
+    "category": "school",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-parents"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-parents"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for teenagers",
+    "category": "school",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-teens"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-teenagers"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for university students",
+    "category": "school",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-students"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-university-"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-clinicians"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-clinicians"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for managers",
+    "category": "work",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-managers"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-managers"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-women"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-women-in-mi"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-men"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-men-who-don"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-newly-diagnosed"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-the-newly-d"
+  },
+  {
+    "topic": "What therapy can and cannot do for misophonia: CBT, exposure, and the limits of talking — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "therapy",
+      "cbt",
+      "exposure",
+      "for-skeptics"
+    ],
+    "slug": "what-therapy-can-and-cannot-do-for-misophonia-cbt-exposure-and-the-limits-of-talking-for-skeptics"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for partners",
+    "category": "relationships",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-partners"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-partners"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for parents",
+    "category": "school",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-parents"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-parents"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for teenagers",
+    "category": "school",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-teens"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-teenagers"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for university students",
+    "category": "school",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-students"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-university-students"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-clinicians"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-clinicians"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for managers",
+    "category": "work",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-managers"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-managers"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-women"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-women-in-midlife"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-men"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-men-who-dont-talk-about"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-newly-diagnosed"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "Polyvagal theory and the misophonic nervous system: a working translation — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "polyvagal",
+      "nervous-system",
+      "regulation",
+      "for-skeptics"
+    ],
+    "slug": "polyvagal-theory-and-the-misophonic-nervous-system-a-working-translation-for-skeptics"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for partners",
+    "category": "relationships",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-partners"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-partners"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for parents",
+    "category": "school",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-parents"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-parents"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for teenagers",
+    "category": "school",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-teens"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-teenagers"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for university students",
+    "category": "school",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-students"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-university-stude"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-clinicians"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-clinicians"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for managers",
+    "category": "work",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-managers"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-managers"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-women"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-women-in-midlife"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-men"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-men-who-dont-tal"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-newly-diagnosed"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-the-newly-diagno"
+  },
+  {
+    "topic": "Sleep with misophonia: what to do when your partner's breathing wakes you at 3 a.m. — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "sleep",
+      "partner",
+      "night",
+      "for-skeptics"
+    ],
+    "slug": "sleep-with-misophonia-what-to-do-when-your-partners-breathing-wakes-you-at-3-am-for-skeptics"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for partners",
+    "category": "relationships",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-partners"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-partners"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for parents",
+    "category": "school",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-parents"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-parents"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for teenagers",
+    "category": "school",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-teens"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-teenager"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for university students",
+    "category": "school",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-students"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-universi"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-clinicians"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-clinicia"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for managers",
+    "category": "work",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-managers"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-managers"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-women"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-women-in"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-men"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-men-who-"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-newly-diagnosed"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-the-newl"
+  },
+  {
+    "topic": "Children with misophonia: how to help a kid who can't articulate why dinner is unbearable — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "children",
+      "parenting",
+      "support",
+      "for-skeptics"
+    ],
+    "slug": "children-with-misophonia-how-to-help-a-kid-who-cant-articulate-why-dinner-is-unbearable-for-skeptics"
+  },
+  {
+    "topic": "Misophonia and parenting: when your own child's chewing is a trigger and you can't say it out loud — for partners",
+    "category": "relationships",
+    "tags": [
+      "parenting",
+      "shame",
+      "family",
+      "for-partners"
+    ],
+    "slug": "misophonia-and-parenting-when-your-own-childs-chewing-is-a-trigger-and-you-cant-say-it-out-loud-for-"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for partners",
+    "category": "relationships",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-partners"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-partners"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for parents",
+    "category": "school",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-parents"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-parents"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for teenagers",
+    "category": "school",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-teens"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-teenagers"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for university students",
+    "category": "school",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-students"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-university"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-clinicians"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-clinicians"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for managers",
+    "category": "work",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-managers"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-managers"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-women"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-women-in-m"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-men"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-men-who-do"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-newly-diagnosed"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-the-newly-"
+  },
+  {
+    "topic": "The shame loop: why misophonics apologise after every flare and how to break the cycle — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "shame",
+      "emotional-regulation",
+      "self-compassion",
+      "for-skeptics"
+    ],
+    "slug": "the-shame-loop-why-misophonics-apologise-after-every-flare-and-how-to-break-the-cycle-for-skeptics"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for partners",
+    "category": "relationships",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-partners"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-partners"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for parents",
+    "category": "school",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-parents"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-parents"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for teenagers",
+    "category": "school",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-teens"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-teenagers"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for university students",
+    "category": "school",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-students"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-university-st"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-clinicians"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for managers",
+    "category": "work",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-managers"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-managers"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-women"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-women-in-midl"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-men"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-men-who-dont-"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-the-newly-dia"
+  },
+  {
+    "topic": "Misophonia in long-term partnership: ten years in, what actually keeps you both sane — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "marriage",
+      "long-term",
+      "co-regulation",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-in-long-term-partnership-ten-years-in-what-actually-keeps-you-both-sane-for-skeptics"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for partners",
+    "category": "relationships",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-partners"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-partn"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for parents",
+    "category": "school",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-parents"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-paren"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for teenagers",
+    "category": "school",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-teens"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-teena"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for university students",
+    "category": "school",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-students"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-unive"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-clinicians"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-clini"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for managers",
+    "category": "work",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-managers"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-manag"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-women"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-women"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-men"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-men-w"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-newly-diagnosed"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-the-n"
+  },
+  {
+    "topic": "Soundproofing on a renter's budget: door seals, curtains, and acoustic foam that actually work — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "soundproofing",
+      "rental",
+      "diy",
+      "for-skeptics"
+    ],
+    "slug": "soundproofing-on-a-renters-budget-door-seals-curtains-and-acoustic-foam-that-actually-work-for-skept"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for partners",
+    "category": "relationships",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-partners"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-partners"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for parents",
+    "category": "school",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-parents"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-parents"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for teenagers",
+    "category": "school",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-teens"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-teenagers"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for university students",
+    "category": "school",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-students"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-university-"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-clinicians"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for managers",
+    "category": "work",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-managers"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-managers"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-women"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-women-in-mi"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-men"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-men-who-don"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-the-newly-d"
+  },
+  {
+    "topic": "Misophonia at the dentist, in the MRI, on the bus: surviving captive sound environments — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "medical",
+      "transit",
+      "captive",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-at-the-dentist-in-the-mri-on-the-bus-surviving-captive-sound-environments-for-skeptics"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for partners",
+    "category": "relationships",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-partners"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-partners"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for parents",
+    "category": "school",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-parents"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-parents"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for teenagers",
+    "category": "school",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-teens"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-teenagers"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for university students",
+    "category": "school",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-students"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-university-students"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-clinicians"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-clinicians"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for managers",
+    "category": "work",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-managers"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-managers"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-women"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-women-in-midlife"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-men"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-men-who-dont-talk-abo"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-newly-diagnosed"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "What the research actually says: a 2026 reader's guide to misophonia studies — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "research",
+      "studies",
+      "evidence",
+      "for-skeptics"
+    ],
+    "slug": "what-the-research-actually-says-a-2026-readers-guide-to-misophonia-studies-for-skeptics"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for partners",
+    "category": "relationships",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-partners"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-partners"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for parents",
+    "category": "school",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-parents"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-parents"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for teenagers",
+    "category": "school",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-teens"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-teenagers"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for university students",
+    "category": "school",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-students"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-university-students"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-clinicians"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-clinicians"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for managers",
+    "category": "work",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-managers"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-managers"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-women"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-women-in-midlife"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-men"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-men-who-dont-talk-a"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-newly-diagnosed"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "The misophonic apology: when to explain, when to walk away, when to say nothing — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "apology",
+      "communication",
+      "boundaries",
+      "for-skeptics"
+    ],
+    "slug": "the-misophonic-apology-when-to-explain-when-to-walk-away-when-to-say-nothing-for-skeptics"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for partners",
+    "category": "relationships",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-partners"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-partners"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for parents",
+    "category": "school",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-parents"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-parents"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for teenagers",
+    "category": "school",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-teens"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-teenagers"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for university students",
+    "category": "school",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-students"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-university-students"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for clinicians",
+    "category": "treatment",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-clinicians"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-clinicians"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for managers",
+    "category": "work",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-managers"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-managers"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for women in midlife",
+    "category": "psychology",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-women"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-women-in-midlife"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for men who don't talk about it",
+    "category": "psychology",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-men"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-men-who-dont-talk-about-it"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for the newly diagnosed",
+    "category": "psychology",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-newly-diagnosed"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-the-newly-diagnosed"
+  },
+  {
+    "topic": "Misophonia and music: why some sounds heal and others wound — for skeptics",
+    "category": "neuroscience",
+    "tags": [
+      "music",
+      "soundscape",
+      "regulation",
+      "for-skeptics"
+    ],
+    "slug": "misophonia-and-music-why-some-sounds-heal-and-others-wound-for-skeptics"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-dinner-table"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-open-plan-office"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-school-classroom"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-long-haul-flight"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-family-holiday"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-dentists-chair"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-morning-commute"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-supermarket-queue"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-library-exam-hall"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "What the research actually says about misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "research-driven",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "what-the-research-actually-says-about-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-dinner-table"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-open-plan-office"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-school-classroom"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-long-haul-flight"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-family-holiday"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-dentists-chair"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-morning-commute"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-supermarket-queue"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-library-exam-hall"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "The night I learned the truth about misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "story-driven",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "the-night-i-learned-the-truth-about-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-dinner-table"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-open-plan-office"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-school-classroom"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-long-haul-flight"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-family-holiday"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-dentists-chair"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-morning-commute"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-supermarket-queue"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-library-exam-hall"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "A practical playbook for misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "practical",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "a-practical-playbook-for-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-dinner-table"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-open-plan-office"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-school-classroom"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-long-haul-flight"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-family-holiday"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-dentists-chair"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-morning-commute"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-supermarket-queue"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-library-exam-hall"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "Why the standard advice on misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "contrarian",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "why-the-standard-advice-on-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Living with misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-dinner-table"
+    ],
+    "slug": "living-with-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "Living with misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-open-plan-office"
+    ],
+    "slug": "living-with-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "Living with misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-school-classroom"
+    ],
+    "slug": "living-with-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "Living with misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-long-haul-flight"
+    ],
+    "slug": "living-with-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Living with misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-family-holiday"
+    ],
+    "slug": "living-with-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "Living with misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "living-with-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "Living with misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "living-with-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "Living with misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-dentists-chair"
+    ],
+    "slug": "living-with-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "Living with misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-morning-commute"
+    ],
+    "slug": "living-with-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "Living with misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "living-with-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "Living with misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-supermarket-queue"
+    ],
+    "slug": "living-with-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "Living with misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-library-exam-hall"
+    ],
+    "slug": "living-with-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "Living with misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "living-with-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "Living with misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "first-person",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "living-with-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-dinner-table"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-open-plan-office"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-school-classroom"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-long-haul-flight"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-family-holiday"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-dentists-chair"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-morning-commute"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-supermarket-queue"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-library-exam-hall"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "An honest explainer of misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "explainer",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "an-honest-explainer-of-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Field notes on misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-dinner-table"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "Field notes on misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-open-plan-office"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "Field notes on misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-school-classroom"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "Field notes on misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-long-haul-flight"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Field notes on misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-family-holiday"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "Field notes on misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "Field notes on misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "Field notes on misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-dentists-chair"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "Field notes on misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-morning-commute"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "Field notes on misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "Field notes on misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-supermarket-queue"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "Field notes on misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-library-exam-hall"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "Field notes on misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "Field notes on misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "field-notes",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "field-notes-on-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-dinner-table"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-open-plan-office"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-school-classroom"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-long-haul-flight"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-family-holiday"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-dentists-chair"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-morning-commute"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-supermarket-queue"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-library-exam-hall"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "A letter to anyone struggling with misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "letter",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "a-letter-to-anyone-struggling-with-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "The long read on misophonia at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-dinner-table"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-dinner-table"
+  },
+  {
+    "topic": "The long read on misophonia at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-open-plan-office"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-open-plan-office"
+  },
+  {
+    "topic": "The long read on misophonia at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-school-classroom"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-school-classroom"
+  },
+  {
+    "topic": "The long read on misophonia at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-long-haul-flight"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-long-haul-flight"
+  },
+  {
+    "topic": "The long read on misophonia at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-family-holiday"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-family-holiday"
+  },
+  {
+    "topic": "The long read on misophonia at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "The long read on misophonia at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "The long read on misophonia at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-dentists-chair"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-dentists-chair"
+  },
+  {
+    "topic": "The long read on misophonia at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-morning-commute"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-morning-commute"
+  },
+  {
+    "topic": "The long read on misophonia at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "The long read on misophonia at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-supermarket-queue"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-supermarket-queue"
+  },
+  {
+    "topic": "The long read on misophonia at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-library-exam-hall"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-library-exam-hall"
+  },
+  {
+    "topic": "The long read on misophonia at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "The long read on misophonia at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "scenarios",
+      "long-read",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "the-long-read-on-misophonia-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-dinner-table"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-dinner-table"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-open-plan-office"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-open-plan-office"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-school-classroom"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-school-classroom"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-long-haul-flight"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-family-holiday"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-family-holiday"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-dentists-chair"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-dentists-chair"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-morning-commute"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-morning-commute"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-supermarket-queue"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-supermarket-queue"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-library-exam-hall"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-library-exam-hall"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "Using deep listening when misophonia hits at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "deep-listening",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "using-deep-listening-when-misophonia-hits-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-dinner-table"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-dinner-table"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-open-plan-office"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-open-plan-office"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-school-classroom"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-school-classroom"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-long-haul-flight"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-family-holiday"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-family-holiday"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-bedroom-at-3-am"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the weekly therapy session",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-weekly-therapy-session"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-weekly-therapy-session"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the dentist's chair",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-dentists-chair"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-dentists-chair"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the morning commute",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-morning-commute"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-morning-commute"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the in-laws' kitchen",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-in-laws-kitchen"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-in-laws-kitchen"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the supermarket queue",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-supermarket-queue"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-supermarket-queue"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the library exam hall",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-library-exam-hall"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-library-exam-hall"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the open kitchen restaurant",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-open-kitchen-restaurant"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-open-kitchen-restaurant"
+  },
+  {
+    "topic": "Using co-regulation when misophonia hits at the busy coffee shop",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "co-regulation",
+      "the-busy-coffee-shop"
+    ],
+    "slug": "using-co-regulation-when-misophonia-hits-at-the-busy-coffee-shop"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the dinner table",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-dinner-table"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-dinner-table"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the open-plan office",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-open-plan-office"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-open-plan-office"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the school classroom",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-school-classroom"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-school-classroom"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the long-haul flight",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-long-haul-flight"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-long-haul-flight"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the family holiday",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-family-holiday"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-family-holiday"
+  },
+  {
+    "topic": "Using interoceptive training when misophonia hits at the bedroom at 3 a.m.",
+    "category": "strategies",
+    "tags": [
+      "intervention",
+      "interoceptive-training",
+      "the-bedroom-at-3-am"
+    ],
+    "slug": "using-interoceptive-training-when-misophonia-hits-at-the-bedroom-at-3-am"
+  }
+]

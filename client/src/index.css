@@ -326,7 +326,63 @@
       0 0 0 7px var(--ink);
   }
   .photo-aged {
-    filter: contrast(0.92) saturate(0.85) sepia(0.05);
+    filter: contrast(0.96) saturate(0.95) sepia(0.02);
+  }
+  .photo-bright {
+    filter: contrast(1.02) saturate(1.05);
+  }
+
+  /* Cinematic banner */
+  .hero-banner {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.4rem;
+    box-shadow:
+      0 1px 0 var(--rule),
+      0 0 0 6px var(--parchment),
+      0 0 0 7px var(--ink);
+  }
+  .hero-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 16 / 8;
+  }
+  .hero-banner .overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(248, 244, 238, 0) 35%, rgba(248, 244, 238, 0.93) 100%);
+  }
+  .hero-banner .copy {
+    position: absolute;
+    inset: auto 0 0 0;
+    padding: 1.25rem 1.5rem 1.5rem;
+    color: var(--ink);
+  }
+  @media (min-width: 768px) {
+    .hero-banner .copy {
+      padding: 2rem 2.25rem 2.25rem;
+    }
+  }
+
+  /* Front-page collage */
+  .collage {
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: clamp(280px, 38vh, 420px);
+  }
+  .collage > div {
+    overflow: hidden;
+    border-radius: 0.3rem;
+    box-shadow: 0 0 0 1px var(--rule);
+  }
+  .collage > div img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .collage > div:nth-child(1) {
+    grid-row: 1 / span 2;
   }
 
   /* TOC sticky */

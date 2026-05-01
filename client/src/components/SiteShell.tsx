@@ -5,6 +5,8 @@ import { Menu, X, Mail, Rss, BookOpen } from "lucide-react";
 const NAV: { href: string; label: string; kicker?: string }[] = [
   { href: "/", label: "The Front Page", kicker: "Today" },
   { href: "/articles", label: "The Archive", kicker: "All editions" },
+  { href: "/herbs", label: "The Apothecary", kicker: "60 herbs" },
+  { href: "/assessments", label: "The Mirrors", kicker: "11 questionnaires" },
   { href: "/recommended", label: "The Quiet Kit", kicker: "Recommended" },
   { href: "/about", label: "About the Desk", kicker: "Our stance" },
   { href: "/author/the-oracle-lover", label: "The Editor", kicker: "By the same hand" },
@@ -122,6 +124,8 @@ export default function SiteShell({ children }: { children: ReactNode }) {
             <ul className="space-y-1 font-sans text-sm">
               <li><Link href="/" className="hover:text-[var(--rust)]">Front page</Link></li>
               <li><Link href="/articles" className="hover:text-[var(--rust)]">Archive</Link></li>
+              <li><Link href="/herbs" className="hover:text-[var(--rust)]">The Apothecary (60 herbs)</Link></li>
+              <li><Link href="/assessments" className="hover:text-[var(--rust)]">The Mirrors (11 questionnaires)</Link></li>
               <li><Link href="/recommended" className="hover:text-[var(--rust)]">Quiet kit</Link></li>
               <li><Link href="/about" className="hover:text-[var(--rust)]">About the desk</Link></li>
               <li><Link href="/author/the-oracle-lover" className="hover:text-[var(--rust)]">The editor</Link></li>
@@ -140,10 +144,30 @@ export default function SiteShell({ children }: { children: ReactNode }) {
             </p>
           </div>
         </div>
+        <div className="border-t border-foreground/30 bg-[oklch(0.92_0.03_75)]">
+          <div className="container py-4 text-xs leading-relaxed font-sans text-foreground/75">
+            <p className="font-semibold mb-1">A note on liability:</p>
+            <p>
+              The Noise Wound is journalism and lived experience, not medical advice.
+              Nothing here diagnoses, treats, or replaces care from a qualified
+              clinician. By using this site you agree that the operator bears no
+              liability for outcomes related to anything you read, click, or buy here.
+              Read the full <Link href="/disclaimer" className="underline">disclaimer</Link>,{" "}
+              <Link href="/privacy" className="underline">privacy policy</Link>, and{" "}
+              <Link href="/terms" className="underline">terms of use</Link>.
+            </p>
+          </div>
+        </div>
         <div className="border-t border-foreground/30">
           <div className="container py-3 flex flex-col sm:flex-row justify-between gap-2 text-[11px] font-sans uppercase tracking-[0.18em] text-foreground/60">
             <span>© {new Date().getFullYear()} The Noise Wound</span>
-            <span>Set in Merriweather, Source Serif Pro, and Inter.</span>
+            <span>
+              <Link href="/disclaimer" className="hover:text-[var(--rust)]">Disclaimer</Link>
+              {" · "}
+              <Link href="/privacy" className="hover:text-[var(--rust)]">Privacy</Link>
+              {" · "}
+              <Link href="/terms" className="hover:text-[var(--rust)]">Terms</Link>
+            </span>
           </div>
         </div>
       </footer>

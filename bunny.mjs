@@ -1,65 +1,90 @@
 /**
- * Bunny CDN integration.
+ * Bunny CDN integration — credentials hard-coded per master scope §9.
+ * Storage zone:   noise-wound (NY region)
+ * Pull zone:      noise-wound.b-cdn.net
+ * Storage host:   ny.storage.bunnycdn.com
  *
- * Per master scope §9: credentials are HARD-CODED here, not in env. They live in
- * version control because the only secrets shared across all 200 satellite
- * sites are these and they need to be consistent across `bulk-seed.mjs` calls.
- *
- * NOTE: the user is providing the real Bunny zone, key, and pull-zone separately.
- * Until those are pasted in, the placeholders below let `assignHeroImage()` keep
- * returning a working CDN-shaped URL (Bunny pull-zone for the network's image
- * library at `noise-wound-images.b-cdn.net`). When the real values arrive, just
- * swap the three constants below — no other file needs to change.
+ * No environment variables. No Manus runtime. All assets served as compressed WebP.
  */
+
 export const BUNNY = {
-  storageZone: "noise-wound-images",
-  storageKey: "PLACEHOLDER_STORAGE_KEY_REPLACE_AT_HANDOFF",
-  pullZone: "noise-wound-images.b-cdn.net",
-  // 92 image library files (lib-01.webp ... lib-92.webp) sit under /library/.
+  storageZone: "noise-wound",
+  storageKey: "4395078b-e81d-49eb-96590187e7bd-0355-458c",
+  storageHost: "ny.storage.bunnycdn.com",
+  pullZone: "noise-wound.b-cdn.net",
   libraryPrefix: "/library",
   librarySize: 92,
-  // Per-article hero key pattern is /images/{slug}.webp. Until Bunny PUT credentials
-  // exist, the pull-zone serves a deterministic library file mirroring the slug hash.
 };
 
-/**
- * Stable hash → 1..librarySize index. So the same slug always maps to the same
- * library photograph (so previews stay deterministic across rebuilds).
- */
-function slugIndex(slug, max = BUNNY.librarySize) {
-  let h = 0;
-  for (let i = 0; i < slug.length; i += 1) {
-    h = (h * 31 + slug.charCodeAt(i)) >>> 0;
-  }
-  return (h % max) + 1;
+export function publicUrl(path) {
+  const p = path.startsWith("/") ? path : `/${path}`;
+  return `https://${BUNNY.pullZone}${p}`;
 }
 
-/**
- * Returns the public CDN URL for the article hero. Once the user uploads
- * /images/{slug}.webp, the function automatically prefers that path (via a
- * cheap convention that the seed engine sets `pre-uploaded:true` only when the
- * upload succeeded). For everything else we hand back a library file.
- */
-export function assignHeroImage(slug) {
-  const idx = slugIndex(slug);
-  const padded = String(idx).padStart(2, "0");
-  return `https://${BUNNY.pullZone}${BUNNY.libraryPrefix}/lib-${padded}.webp`;
+export function heroUrlForSlug(slug) {
+  return publicUrl(`/heroes/${slug}.webp`);
 }
 
-/**
- * Random library hero — used for placeholder modules where no slug exists yet
- * (homepage rotators, "trending" rails, etc.).
- */
+export function ogUrlForSlug(slug) {
+  return publicUrl(`/og/${slug}.webp`);
+}
+
+export function fontUrl(filename) {
+  return publicUrl(`/fonts/${filename}`);
+}
+
+/** Random library hero — used for hero rotators where no slug exists yet. */
 export function randomLibraryImage() {
   const idx = Math.floor(Math.random() * BUNNY.librarySize) + 1;
   const padded = String(idx).padStart(2, "0");
-  return `https://${BUNNY.pullZone}${BUNNY.libraryPrefix}/lib-${padded}.webp`;
+  return publicUrl(`${BUNNY.libraryPrefix}/lib-${padded}.webp`);
+}
+
+/** Deterministic library hero — same slug → same library file. */
+export function assignHeroImage(slug) {
+  return heroUrlForSlug(slug);
 }
 
 /**
- * Deterministic CDN URL for a font file. All three Bunny-hosted WOFF2 fonts
- * sit under /fonts/.
+ * PUT a buffer to Bunny storage. `path` is server-relative (e.g. "/heroes/a.webp").
+ * Returns { ok, status, url }.
  */
-export function fontUrl(filename) {
-  return `https://${BUNNY.pullZone}/fonts/${filename}`;
+export async function bunnyPut(path, body, contentType = "image/webp") {
+  const clean = path.startsWith("/") ? path : `/${path}`;
+  const url = `https://${BUNNY.storageHost}/${BUNNY.storageZone}${clean}`;
+  const res = await fetch(url, {
+    method: "PUT",
+    headers: {
+      AccessKey: BUNNY.storageKey,
+      "Content-Type": contentType,
+    },
+    body,
+  });
+  return {
+    ok: res.ok,
+    status: res.status,
+    url: publicUrl(clean),
+  };
+}
+
+/** HEAD an asset to test existence without downloading. */
+export async function bunnyExists(path) {
+  const clean = path.startsWith("/") ? path : `/${path}`;
+  const url = `https://${BUNNY.storageHost}/${BUNNY.storageZone}${clean}`;
+  const res = await fetch(url, {
+    method: "GET",
+    headers: { AccessKey: BUNNY.storageKey },
+  });
+  return res.ok;
+}
+
+/** DELETE an asset from Bunny storage. */
+export async function bunnyDelete(path) {
+  const clean = path.startsWith("/") ? path : `/${path}`;
+  const url = `https://${BUNNY.storageHost}/${BUNNY.storageZone}${clean}`;
+  const res = await fetch(url, {
+    method: "DELETE",
+    headers: { AccessKey: BUNNY.storageKey },
+  });
+  return res.ok;
 }
