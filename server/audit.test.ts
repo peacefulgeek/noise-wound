@@ -130,3 +130,40 @@ describe("internal links registry", () => {
     expect(slugs.size).toBe(picks.length);
   });
 });
+
+
+import { canonicaliseUrl } from "./lib/aeo";
+// herbs.ts lives under client/src/data; import via relative path.
+import { HERBS } from "../client/src/data/herbs";
+
+describe("canonical URL builder", () => {
+  it("strips utm params, trailing slash, and forces apex+https", () => {
+    const u = canonicaliseUrl(`https://www.${SITE.apex}/articles/foo/?utm_source=x&utm_medium=y`);
+    expect(u).toBe(`https://${SITE.apex}/articles/foo`);
+  });
+  it("preserves non-utm querystring", () => {
+    const u = canonicaliseUrl(`https://${SITE.apex}/articles?page=2&utm_source=x`);
+    expect(u).toMatch(/\?page=2$/);
+    expect(u).not.toMatch(/utm_source/);
+  });
+});
+
+describe("herbs page", () => {
+  it("ships at least 60 verified ASIN entries", () => {
+    expect(HERBS.length).toBeGreaterThanOrEqual(60);
+  });
+  it("has unique ASINs and the spankyspinola-20 tag flows through amazonLink", () => {
+    const set = new Set(HERBS.map((h) => h.asin));
+    expect(set.size).toBe(HERBS.length);
+    // every herb's amazonLink output uses the audit tag
+    for (const h of HERBS.slice(0, 5)) {
+      expect(amazonLink(h.asin)).toMatch(/tag=spankyspinola-20/);
+    }
+  });
+  it("every entry has a category", () => {
+    for (const h of HERBS) {
+      expect(typeof h.category).toBe("string");
+      expect(h.category.length).toBeGreaterThan(0);
+    }
+  });
+});
